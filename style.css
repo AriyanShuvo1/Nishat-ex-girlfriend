@@ -1,0 +1,33 @@
+.nishat{
+  background-color: tomato;
+  align-content: center;
+  margin-bottom: 200px;
+  border: 10px dotted pink ;
+  position: relative;
+}
+h1{
+  color: black;
+  text-shadow: 3px 3px white;
+  color: powderblue;
+  font-size: 50px;
+  text-align: center;
+}
+.s1{
+  color: red;
+  background-color: powderblue;
+  text-shadow: 2px 2px rgb(255, 165, 0);
+}
+.s2{
+  color: pink;
+  background-color: black;
+  text-shadow: 2px 2px powderblue;
+}
+.s3{
+  color: pink;
+  background-color: white;
+  text-shadow: 2px 2px red;
+}
+a{
+  color: red;
+  background-color: powderblue;
+}
